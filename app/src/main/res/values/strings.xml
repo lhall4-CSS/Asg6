@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Asg6</string>
+
+    <string-array name="con1">
+        <item>Frank</item>
+        <item>2182147654</item>
+    </string-array>
+    <string-array name="con2">
+        <item>Harry</item>
+        <item>2186785473</item>
+    </string-array>
+    <string-array name="con3">
+        <item>Bob</item>
+        <item>2175479743</item>
+    </string-array>
+</resources>
