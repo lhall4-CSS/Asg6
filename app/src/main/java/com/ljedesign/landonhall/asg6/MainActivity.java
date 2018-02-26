@@ -38,9 +38,9 @@ public class MainActivity extends AppCompatActivity {
         con1 = res.getStringArray(R.array.con1);
         con2 = res.getStringArray(R.array.con2);
         con3 = res.getStringArray(R.array.con3);
-        tvcon1.setText(con1[0]);
-        tvcon2.setText(con2[0]);
-        tvcon3.setText(con3[0]);
+        tvcon1.setText("Contact Name: " + con1[0]);
+        tvcon2.setText("Contact Name: " + con2[0]);
+        tvcon3.setText("Contact Name: " + con3[0]);
 
         setupButtonClickEvents();
         }
